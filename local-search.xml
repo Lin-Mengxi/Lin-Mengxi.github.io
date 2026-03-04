@@ -8,7 +8,7 @@
     <link href="/2026/03/04/Hello-Hexo-Fluid/"/>
     <url>/2026/03/04/Hello-Hexo-Fluid/</url>
     
-    <content type="html"><![CDATA[<div class="note note-success">            <p>基于<span class="label label-danger">Hexo</span>搭建个人博客，本篇文章用于测试常用Hexo及Markdown命令等</p>          </div><h2 id="1-免费背景图片网址"><a href="#1-免费背景图片网址" class="headerlink" title="1. 免费背景图片网址"></a>1. 免费背景图片网址</h2><ul><li><a href="https://unsplash.com/">Unsplash</a> <span class="label label-success">High speed</span></li></ul><h2 id="2-Hexo命令"><a href="#2-Hexo命令" class="headerlink" title="2. Hexo命令"></a>2. Hexo命令</h2><h3 id="2-1-执行三部曲"><a href="#2-1-执行三部曲" class="headerlink" title="2.1 执行三部曲"></a>2.1 执行三部曲</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo s  <span class="hljs-comment"># 本地生成博客</span><br>$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d  <span class="hljs-comment"># 上传github</span><br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<div class="note note-success">            <p>基于<span class="label label-danger">Hexo</span>搭建个人博客，本篇文章用于测试常用Hexo及Markdown命令等</p>          </div><h2 id="1-免费背景图片网址"><a href="#1-免费背景图片网址" class="headerlink" title="1. 免费背景图片网址"></a>1. 免费背景图片网址</h2><ul><li><a href="https://unsplash.com/">Unsplash</a> <span class="label label-success">High speed</span></li></ul><h2 id="2-Hexo命令"><a href="#2-Hexo命令" class="headerlink" title="2. Hexo命令"></a>2. Hexo命令</h2><h3 id="2-1-执行三部曲"><a href="#2-1-执行三部曲" class="headerlink" title="2.1 执行三部曲"></a>2.1 执行三部曲</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo s  <span class="hljs-comment"># 本地生成博客</span><br>$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d  <span class="hljs-comment"># 上传github</span><br></code></pre></td></tr></table></figure><h2 id="3-待定"><a href="#3-待定" class="headerlink" title="3. 待定"></a>3. 待定</h2>]]></content>
     
     
     <categories>
@@ -21,6 +21,8 @@
     <tags>
       
       <tag>Learning</tag>
+      
+      <tag>Test</tag>
       
     </tags>
     
