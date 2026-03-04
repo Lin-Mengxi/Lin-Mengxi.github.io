@@ -8,7 +8,7 @@
     <link href="/2026/03/04/Hello-Hexo-Fluid/"/>
     <url>/2026/03/04/Hello-Hexo-Fluid/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<hr><div class="note note-success">            <p>基于<span class="label label-danger">Hexo</span>搭建个人博客，本章用于测试常用Hexo及Markdown命令等</p>          </div><p>###背景图片网址</p>]]></content>
     
     
     <categories>
