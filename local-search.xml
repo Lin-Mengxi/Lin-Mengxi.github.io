@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>多体动力学学习</title>
+    <link href="/2026/03/11/%E5%A4%9A%E4%BD%93%E5%8A%A8%E5%8A%9B%E5%AD%A6%E5%AD%A6%E4%B9%A0/"/>
+    <url>/2026/03/11/%E5%A4%9A%E4%BD%93%E5%8A%A8%E5%8A%9B%E5%AD%A6%E5%AD%A6%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-success">            <p>资料引用于 <a href="https://github.com/DongHT/Multibody_dynamics_formula_derivation_and_simulation">DongHT</a></p>          </div><h2 id="1-摆的运动"><a href="#1-摆的运动" class="headerlink" title="1. 摆的运动"></a>1. 摆的运动</h2><h3 id="1-1-单球铰"><a href="#1-1-单球铰" class="headerlink" title="1.1 单球铰"></a>1.1 单球铰</h3><ul><li>三个转动自由度</li></ul><p><img src="/mason_blog/Spherical.gif" alt="单球铰"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Other</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Learning</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Origin Learning</title>
     <link href="/2026/03/06/Origin-Learning/"/>
     <url>/2026/03/06/Origin-Learning/</url>
